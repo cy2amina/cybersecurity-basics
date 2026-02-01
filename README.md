@@ -1,4 +1,3 @@
-# cybersecurity-basics                   
 # Cybersecurity Basics
 
 This repository introduces basic cybersecurity concepts in a simple and educational way.
